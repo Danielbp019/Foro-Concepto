@@ -1,2 +1,2 @@
 # Foro-Concepto
- Diseño de un foro
+ El mejor diseño a mi parecer para un foro, hecho con bootstrap.
